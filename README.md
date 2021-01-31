@@ -1,4 +1,4 @@
-# Text-Feature-Extraction-Ham-or-Spam-SMS
+# TFIDF Text Classification
 
 The purpose of this project is to calculate the Term Frequency-Inverse Document Frequency (TFIDF) value to perform text feature extraction on an SMS dataset, prelabeled with Ham or Spam classification.
 
