@@ -6,7 +6,7 @@ The resulting model can predict if new texts should be classified as Ham or Spam
 
 ## Datasets and Overview
 Sci-kit learn was used for this project for its feature extraction libraries, specifically containing a TFIDF vectorizer.
-The first dataset, Ham-or-Spam, contains 5572 text messages and labelled as ham or spam. The second and third datasets, Movie Reviews and Amazon Reviews, contain 2000 and 10000 reviews respectively, both labelled as as positive or negative. All datasets can be found in the Github repository linked above. An updated Movie review dataset can also be found in the link below.
+The first dataset, Ham-or-Spam, contains 5572 text messages and labelled as ham or spam. The second and third datasets, Movie Reviews and Amazon Reviews, contain 2000 and 10000 reviews respectively, both labelled as as positive or negative. All datasets can be found in the Github repository. An updated Movie review dataset can also be found in the link below.
 http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 ## Term Frequency-Inverse Document Frequency (TFIDF)
