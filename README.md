@@ -5,7 +5,7 @@ The purpose of this project is to calculate the Term Frequency-Inverse Document 
 The resulting model can predict if new texts should be classified as Ham or Spam for the first dataset and if a movie review is positive or negative for the second dataset. 
 
 ## Datasets and Overview
-Sci-kit learn was used for this project for its feature extraction libraries, specifically containing a TFIDF vectorizer.
+Scikit-Learn and PySpark were used for this project for their feature extraction libraries, specifically containing a TFIDF vectorizer.
 The first dataset, Ham-or-Spam, contains 5572 text messages and labelled as ham or spam. The second and third datasets, Movie Reviews and Amazon Reviews, contain 2000 and 10000 reviews respectively, both labelled as as positive or negative. All datasets can be found in the Github repository. An updated Movie review dataset can also be found in the link below.
 http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
