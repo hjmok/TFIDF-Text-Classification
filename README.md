@@ -14,7 +14,7 @@ To perform text feature extraction, the raw texts first need to be vectorized. A
 Using the DTM, the TFIDF has the term frequency of each word. Then the inverse document frequency is calculated on each word, which diminishes the weight of terms that occur often in the document set and increases the weight of rarer terms. This is significant, since common words like 'the' and 'is' will now have less importance during feature extraction compares to less common words like 'dog' or 'blue'.
 
 ## Machine Learning Model
-For this classifier, a Support Vector Machine was used, particularly Sci-kit Learn's LinearSVC (Support Vector Classifier). Linear SVC returns the best fit hyperplane which categorizes the data. This hyperplane can then be used to predict the classification for new data.
+For this classifier, a Support Vector Machine was used, particularly Pyspark and Sci-kit Learn's LinearSVC (Support Vector Classifier). Linear SVC returns the best fit hyperplane which categorizes the data. This hyperplane can then be used to predict the classification for new data.
 
 ## Results
 
